@@ -55,7 +55,7 @@ export default {
     },
 
     contactLink() {
-      return this.$route.path + "/" + this.id + "/contact";
+      return this.$route.path + "/contact";
     },
   },
 
